@@ -49,7 +49,7 @@ Basic PHP package with utility functions like die and dump, generate password an
 ```
 # Installation
 
-composer require njcozw/util
+composer require njcozw/util:dev-master
 
 # In your src file
 
