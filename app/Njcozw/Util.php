@@ -5,7 +5,7 @@ namespace App\Njcozw;
 
 class Util
 {
-    public static function dump_die($data)
+    public static function dd($data)
     {
         echo "<code>";
         echo "<pre>";
