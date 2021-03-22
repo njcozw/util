@@ -1,0 +1,22 @@
+{
+  "name": "njcozw/util",
+  "description": "Basic PHP package with utility functions like die and dump, generate password and logging to txt file",
+  "authors": [
+    {
+      "name": "NJCOZW",
+      "email": "me@nj.co.zw"
+    }
+  ],
+  "type": "library",
+  "license": "MIT",
+  "require": {},
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "config": {
+    "preferred-install": "dist"
+  }
+}
